@@ -1,0 +1,8 @@
+setgamepreset Sandbox
+forcemap [MapName]
+sudo cvar game.role_timers false
+
+delaystart
+startround
+
+restartroundnow
